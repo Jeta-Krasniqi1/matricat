@@ -3,7 +3,7 @@
 Ky program ofron funksione të ndryshme për punën me matrica, si:
 - Krijimi i matricës me input nga përdoruesi
 - Llogaritja e shumës dhe mesatares së elementeve
-- Gjetja e vlerës maksimale dhe minimale
+- Gjetja e vlerës maksimale dhe minimale                
 
 ## Përshkrimi:
 
