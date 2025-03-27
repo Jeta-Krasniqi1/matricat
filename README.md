@@ -6,7 +6,7 @@ Ky program ofron funksione të ndryshme për punën me matrica, si:
 - Gjetja e vlerës maksimale dhe minimale                
 
 ## Përshkrimi:
-
+                           
 - Krijon një matricë me madhësi a × b duke marrë input nga përdoruesi.->
 ```krijimi_i_matrices(int a, int b)```
 - Kthen shumën e të gjithë elementeve të matricës. ->
